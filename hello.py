@@ -1,2 +1,2 @@
-import tensorflow
-import numpy
+import tensorflow as tf
+import numpy as np
