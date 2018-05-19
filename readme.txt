@@ -1,2 +1,2 @@
 Git is a distributed version control sytem.
-Gitis is free software.
+Gitis is free software distributed under the GPL.
