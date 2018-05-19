@@ -6,4 +6,5 @@ I am King Tatum.
 
 Creating a new branch is quick & sinple.
 
+git branch --set-upstream-to=origin/dev dev
 
